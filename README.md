@@ -70,7 +70,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/London
-      - CHROME_CLI=https://testnet.openledger.xyz/?referral_code=bqp4npvuny #optional
+      - CHROME_CLI=https://chromewebstore.google.com/detail/openledger-node/ekbbplmjjgoobhdlffmgeokalelnmjjc #optional
     volumes:
       - /root/chromium/config:/config
     ports:
