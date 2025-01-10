@@ -1,7 +1,7 @@
 ![1500x500](https://github.com/user-attachments/assets/f0f32870-8d3c-4205-b3b6-97175338b347)
 
 ## Ön Bilgi, Kayıt ve Giriş
-- Open Ledger 8M$ yatırım aldı ve ödüllü testnet başlattı. Bütün adımlardan burada ve videoda bahsettim.
+- OpenLedger 8M$ yatırım aldı ve ödüllü testnet başlattı. Bütün adımlardan burada ve videoda bahsettim.
 - Node yüklemek için üç farklı yöntem var ve aşağıdaki tabloda uptime göre verilecek puanı görebilirsiniz. Ayrıca sosyal medya görevleriyle de ek puanlar toplanıyor.
 
   ![openn](https://github.com/user-attachments/assets/60e18135-c8cf-4c60-a9b4-03664ad6bde6)
