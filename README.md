@@ -6,7 +6,7 @@
 
   ![openn](https://github.com/user-attachments/assets/60e18135-c8cf-4c60-a9b4-03664ad6bde6)
 
-- Windows vs. gb masaüstü işletim sistemleri için direkt Gmail ile **[Buradan](https://testnet.openledger.xyz/?referral_code=bqp4npvuny)** giriş yapıyoruz. Girdkten sonra aşağıdaki gibi bir ekranla karşılaşacaksınız. Ayrıntılarıdan videoda bahsettim.
+-  Gmail ile **[Buradan](https://testnet.openledger.xyz/?referral_code=bqp4npvuny)** giriş yapıyoruz. Girdikten sonra aşağıdaki gibi bir ekranla karşılaşacaksınız. Ayrıntılarıdan videoda bahsettim.
 
 ![openn22](https://github.com/user-attachments/assets/a713ec14-fbdc-4235-bbde-44db2677ecca)
 
