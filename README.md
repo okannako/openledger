@@ -95,5 +95,6 @@ docker rm chromium
 docker system prune
 ```
 
-SON: Yükleme adımları bu kadardı. Mutlaka videoyu izleyerek yapın. Destek için YILDIZ ve FORK tuşlarına tıklayabilirsiniz. Teşekkürler. Kolay gelsin.
+SON: Yükleme adımları bu kadardı. Mutlaka videoyu izleyerek yapın. Destek için YILDIZ ve FORK tuşlarına tıklayabilirsiniz. Teşekkürler. 
+Kolay gelsin.
 
