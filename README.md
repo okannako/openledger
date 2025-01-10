@@ -14,6 +14,8 @@
 - Buradaki adımları yaparak vps üzerinde tarayıcı sayfası açarak chrome eklentisini kuruyoruz.
 - İlk olarak Docker ile Chromium tarayıcıyı vps'e kuruyoruz.
 ```
+apt install tmux
+tmux
 sudo apt update -y && sudo apt upgrade -y
 for pkg in docker.io docker-doc docker-compose podman-docker containerd runc; do sudo apt-get remove $pkg; done
 
