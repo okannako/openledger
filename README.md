@@ -84,6 +84,9 @@ services:
 ```
 docker compose up -d
 ```
+```
+http://VpsIP:3010/
+```
 
 4-) Chromium Durdurma ve Silme
 ```
