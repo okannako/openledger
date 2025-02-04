@@ -70,7 +70,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/London
-      - CHROME_CLI=https://chromewebstore.google.com/detail/openledger-node/ekbbplmjjgoobhdlffmgeokalelnmjjc #optional
+      - CHROME_CLI=https://github.com/okannako/depinnodes/tree/main #optional
     volumes:
       - /root/chromium/config:/config
     ports:
